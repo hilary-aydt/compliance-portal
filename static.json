@@ -9,7 +9,8 @@
     "attributes": {
       "content": {
         "title": "Globus Compliance Portal",
-        "privacy_policy": "Please see our privacy policy at https://www.globus.org/legal/privacy",
+        "image": "",
+        "privacy_policy": "https://www.globus.org/legal/privacy",
         "terms_of_service": "This is an example terms of service – you should replace this with your own terms."
       },
       "globus": {
@@ -19,6 +20,11 @@
         "transfer": {
           "collection_id": "1e5ab660-9945-4fd6-b3e7-98064952e114",
           "path": "/"
+        }
+      },
+      "theme": {
+        "header": {
+          "logo": "assets/Globus_logo_BLUE_horizontal.png"
         }
       }
     }
